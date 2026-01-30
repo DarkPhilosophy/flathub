@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Shiru
+Comment=Personal media library and torrent streaming
+Exec=shiru %U
+Icon=com.github.rockinchaos.shiru
+Categories=AudioVideo;Video;
+Keywords=anime;media;library;torrent;streaming;
+MimeType=x-scheme-handler/shiru;x-scheme-handler/magnet;application/x-torrent;
+Terminal=false
